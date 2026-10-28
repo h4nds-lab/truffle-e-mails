@@ -4,7 +4,7 @@ Oito colaboradores, quatro modelos por pessoa, em PNG e HTML. PNGs exportados do
 
 ## Acesso
 
-Publicação prevista: https://h4nds-lab.github.io/truffle-e-mails/
+Site publicado: https://h4nds-lab.github.io/truffle-e-mails/
 
 Ed: https://h4nds-lab.github.io/truffle-e-mails/Ed%20Ribeiro/
 
