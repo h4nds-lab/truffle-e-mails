@@ -1,0 +1,24 @@
+ASSINATURAS DE E-MAIL — TRUFFLE HUNTERS
+
+Esta pasta contém quatro modelos, em PNG e HTML:
+- claro-completa
+- escuro-completa
+- claro-compacta
+- escuro-compacta
+
+Os PNGs foram exportados diretamente do Figma: 834 × 209 px (completa) e 834 × 120 px (compacta).
+Os HTMLs têm nome, cargo, frase e contatos como texto selecionável, além de links para telefone, e-mail e site. As fotos estão coloridas. A arte de fundo preserva o logo, as texturas, as linhas e o QR code do Figma.
+
+VISUALIZAR E COMPARTILHAR OS ARQUIVOS
+Abra qualquer HTML no navegador. Mantenha a pasta assets no mesmo diretório do HTML; ela contém a foto, os fundos e as fontes. Para compartilhar uma assinatura HTML, envie a pasta inteira.
+
+INSTALAR EM UM CLIENTE DE E-MAIL
+Nesta versão do repositório, os HTMLs referenciam os recursos em HTTPS no GitHub Pages. Esses recursos ficam acessíveis quando o Pages está publicado. Para uma versão offline, utilize o pacote original do Desktop com a pasta assets.
+Os HTMLs usam tabelas, estilos inline e um fundo VML para o Outlook clássico. O resultado depende do que o editor de assinaturas permite: alguns removem imagens de fundo ou fontes personalizadas. As fontes têm alternativas de sistema, que podem alterar discretamente as medidas dos textos. As prévias foram conferidas no navegador; o envio em Gmail/Outlook/Apple Mail ainda precisa ser validado no cliente escolhido.
+Para preservar a aparência exatamente, utilize o PNG e insira-o pelo editor de assinatura do cliente de e-mail. Os contatos do PNG são imagem, não links separados.
+
+ORIGEM
+https://www.figma.com/design/ZeNFUrLZKT6rAnqXCJ0C2t
+
+FONTES
+Hepta Slab, DM Sans e DM Mono, distribuídas sob SIL Open Font License. Licenças na pasta assets.
