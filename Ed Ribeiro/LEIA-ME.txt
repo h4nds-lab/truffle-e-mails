@@ -22,3 +22,6 @@ https://www.figma.com/design/ZeNFUrLZKT6rAnqXCJ0C2t
 
 FONTES
 Hepta Slab, DM Sans e DM Mono, distribuídas sob SIL Open Font License. Licenças na pasta assets.
+
+FOTO DE PERFIL
+O arquivo foto-de-perfil.png é a foto original colorida, de 750 × 750 px. Baixe-o pela página do colaborador e use-o como foto de perfil da conta de e-mail. A prévia circular no site não altera o arquivo PNG original.

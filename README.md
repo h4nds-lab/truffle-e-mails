@@ -8,7 +8,7 @@ Site publicado: https://h4nds-lab.github.io/truffle-e-mails/
 
 Ed: https://h4nds-lab.github.io/truffle-e-mails/Ed%20Ribeiro/
 
-Cada pasta mantém os quatro PNGs, os quatro HTMLs, os recursos e um LEIA-ME. O arquivo index.html da pasta reúne as prévias e os downloads.
+Cada pasta mantém os quatro PNGs de assinatura, os quatro HTMLs, a foto original colorida em `foto-de-perfil.png` (750 × 750 px), os recursos e um LEIA-ME. O arquivo index.html da pasta reúne as prévias e os downloads, incluindo o botão “Baixar foto de perfil”.
 
 ## Gmail
 
